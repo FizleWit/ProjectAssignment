@@ -1,0 +1,13 @@
+D:\GitHub Repository\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.exe
+D:\GitHub Repository\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.deps.json
+D:\GitHub Repository\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.runtimeconfig.json
+D:\GitHub Repository\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.runtimeconfig.dev.json
+D:\GitHub Repository\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.dll
+D:\GitHub Repository\ProjectAssignment\bin\Debug\netcoreapp3.1\ProjectAssignment.pdb
+D:\GitHub Repository\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.csprojAssemblyReference.cache
+D:\GitHub Repository\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.AssemblyInfoInputs.cache
+D:\GitHub Repository\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.AssemblyInfo.cs
+D:\GitHub Repository\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.dll
+D:\GitHub Repository\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.pdb
+D:\GitHub Repository\ProjectAssignment\obj\Debug\netcoreapp3.1\ProjectAssignment.genruntimeconfig.cache
